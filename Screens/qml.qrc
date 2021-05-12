@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CnhWidgets.qml</file>
+        <file>MainWindow.qml</file>
+        <file>TopbarMenu.qml</file>
+        <file>SidebarMenu.qml</file>
+        <file>BottomTabBar.qml</file>
+        <file>CnhIconButton.qml</file>
+        <file>Runscreen2.qml</file>
+        <file>MonitoringScreen.qml</file>
+        <file>Time.qml</file>
+        <file>Runscreen1.qml</file>
+        <file>CnhDragableWidget.qml</file>
+        <file>DropScreen.qml</file>
+    </qresource>
+</RCC>
