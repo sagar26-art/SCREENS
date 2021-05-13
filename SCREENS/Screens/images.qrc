@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/stopIcon.png</file>
+        <file>images/about.png</file>
+        <file>images/auto.png</file>
+        <file>images/industry.png</file>
+        <file>images/network.png</file>
+        <file>images/options.png</file>
+        <file>images/satellite.png</file>
+        <file>images/screens.png</file>
+        <file>images/speedometer.png</file>
+        <file>images/warning.png</file>
+        <file>images/wifi.png</file>
+        <file>DragableCnhWidget.qml</file>
+    </qresource>
+</RCC>
