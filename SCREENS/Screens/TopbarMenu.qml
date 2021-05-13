@@ -63,10 +63,10 @@ Item {
             width: 100
             height: 60
             color: "black"
-            Time{
-                id:timer
-                anchors.centerIn: parent
-            }
+//            Time{
+//                id:timer
+//                anchors.centerIn: parent
+//            }
 
         }
         CnhIconButton{
